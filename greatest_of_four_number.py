@@ -15,3 +15,12 @@ print("greatest number is:",greatest)
     
 
 #succed with gpt
+
+
+#greatest using function
+num1=input("Enter no.1:")
+num2=input("Enter no.2:")
+num3=input("Enter no.3:")
+num4=input("Enter no.4:")
+answer=max(num1,num2,num3,num4)
+print("greatest no is:",answer)
